@@ -14,6 +14,8 @@ Sharpe ratio is calculated by subtraction of R<sub>p</sub> (the annualized multi
 
 ![](images/2020-01-26-portfolio_analysis/image2.png)
 
+![](images/2020-01-26-portfolio_analysis/image2.png)
+
 A greater Sharpe ratio ratio indicates a better performance on a risk adjusted basis. One remark though is, a higher Sharpe ratio may not be the most desired one since Sharpe ratio puts two things together; excess return and its associated risk.
 
 **<span class="underline">Strengths and weaknesses of Sharpe Ratio</span>**
