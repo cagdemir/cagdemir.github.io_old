@@ -12,7 +12,7 @@ Sharpe ratio is proposed by William F. Sharpe as a measurement method of mutual 
 
 Sharpe ratio is calculated by subtraction of R<sub>p</sub> (the annualized multi-period return over period T) and R<sub>f</sub> (the annualized base currency risk free return over period T) divided by σ **(**R<sub>p</sub>) (the annualized volatility of the portfolio return over period T.
 
-![](name//media/image2.png)
+![](images/2020-01-26-portfolio analysis/image2.png)
 
 A greater Sharpe ratio ratio indicates a better performance on a risk adjusted basis. One remark though is, a higher Sharpe ratio may not be the most desired one since Sharpe ratio puts two things together; excess return and its associated risk.
 
@@ -32,7 +32,7 @@ Sortino Ratio is conceived by Dr. Frank Sortino in Pension Research Institute in
 
 Sortino Ratio is calculated the subtraction of Rp (Annualized multi-period return over period) and T<sub>A</sub> /Multi period target rate of return to the investment strategy under consideration over period T) by divided DR √T (where DR is target semi-deviation or downside risk that measures the variability of returns below a minimum target rate. T is the number of single observations in reporting period.
 
-![](name//media/image3.png) ![](name//media/image4.png)
+![](images/2020-01-26-portfolio analysis/image3.png) ![](images/2020-01-26-portfolio analysis/image4.png)
 
 The Sortino Ratio is ordinarily used in a relative context in order to compare two or more funds in a benchmark index. A higher Sortino Ratio exhibits better risk adjusted performance. The important point is that while measuring Sortino ratio is should be used the same minimum acceptable return, MAR.
 
@@ -48,7 +48,7 @@ Risk Return ratio can be regarded as the percent return per unit of the losses h
 
 Risk Reward Ratio is calculated by equating minimum win rate which is defined by investor, 1 over addition 1 and reward/risk ratio.
 
-> ![](name//media/image5.png)
+> ![](images/name/image5.png)
 
 Again since this a return-to-some-risk-ratio, higher the ratio better the portfolio performs.
 
@@ -58,7 +58,7 @@ The Treynor Ratio was conceived by Jack L. Treynor in 1965 and also called Rewar
 
 For a one-year measurement of performance, the annualized Treynor Ratio is calculating as **R<sub>f</sub>** (The annualized base currency risk free return over period **T**) subtracted by **R<sub>p</sub>** (The annualized multi period return over period **T**) then divided **β** (**R<sub>p,</sub> R<sub>B)</sub>** (Beta of return **R<sub>p portfolio</sub>** return relative to benchmark return **R<sub>B.</sub>**
 
-> ![](name//media/image6.png)
+> ![](images/2020-01-26-portfolio analysis/image6.png)
 
 The higher ratio values indicate better portfolio on a relative risk-adjusted basis.
 
@@ -68,7 +68,7 @@ The Maximum Drawdown method is measures the largest peak through decline in the 
 
 The Maximum Drawdown is calculated by subtraction of Equity Peak High and Equity Through Low divided by equity peak high.
 
-> ![](name//media/image7.png)
+> ![](images/2020-01-26-portfolio analysis/image7.png)
 
 <span class="underline"></span>
 
@@ -90,7 +90,7 @@ Market Beta is the measurement technique that quantifies stock’s volatility in
 
 Market Beta is calculated;
 
-> ![](name//media/image8.png)
+> ![](images/2020-01-26-portfolio analysis/image8.png)
 
 Which R<sub>e</sub> represents the return of the individual stock, R<sub>m</sub> is the return on the overall market, and covariance is how changes in a stock’s return are related or changes in the market’s return, variance is how far the market’s data points spread out from their average value.
 
@@ -104,7 +104,7 @@ Alpha can be seen as abnormal rate of return and it differs from beta significan
 
 Alpha is calculated;
 
-> ![](name//media/image9.png)
+> ![](images/2020-01-26-portfolio analysis/image9.png)
 
 summation of end price and distribution per share minus start price divided by start price.
 
@@ -112,7 +112,7 @@ summation of end price and distribution per share minus start price divided by s
 
 CAPM Alpha is the rate of return that exceeds what was expected or predicted by models to exemplify Capital Asset Pricing Model (CAPM). The formula of Alpha CAPM is
 
-> ![](name//media/image10.png)
+> ![](images/2020-01-26-portfolio analysis/image10.png)
 
 formula represents **r** is portfolios return, **R<sub>f </sub>**is risk free rate of return, **beta** is portfolio’s price volatility relative to the whole market and **R<sub>m</sub>** is the market return.
 
@@ -130,7 +130,7 @@ There are different methodoliges to calculate VaR. Below you may find historical
 
 It is calculated;
 
-> ![](name//media/image11.png)
+> ![](images/2020-01-26-portfolio analysis/image11.png)
 
 Where **V<sub>i</sub>** represents the number of variables on day **i**, **m** is the number of days from which historical data is taken(historical method), in parametric method two factors are to be estimated but it is not reliable when the sample size is very small. In parametric method variance and covariance factors are using to estimation for return or standard deviation. Another calculation method is Monte Carlo method which is calculated randomly creating a number of scenarios for future rates and calculating VaR according to worst losses.
 
@@ -138,7 +138,7 @@ Where **V<sub>i</sub>** represents the number of variables on day **i**, **m** i
 
 Maximum Single Period Return indicates the highest return acquired in a time step during the a specified period of an investment portfolio. It represetns the historical higher bound.
 
-![](name//media/image12.png)
+![](images/2020-01-26-portfolio analysis/image12.png)
 
 **13.Minimum Single Period Return**
 
@@ -150,19 +150,19 @@ FORMULA
 
 Skewness is asymmetry in a statistical distribution which the curve appears distorted or skewed either to the left or to the right. Skewness can be quantified to define the extent to which a distribution differs from a normal distribution. The famous normal distribution has a skewness value of zero while lognormal distribution exhibits some degree of right skew. Right skewness is positive and left skewness is negative varying degrees.
 
-![](name//media/image13.png) ![](name//media/image14.png)
+![](images/2020-01-26-portfolio analysis/image13.png) ![](images/2020-01-26-portfolio analysis/image14.png)
 
 Where S<sub>k</sub>1 represents Pearson’s first coefficient of skewness and S<sub>k</sub>2 the second, s is the standard deviation for the sample, X<sup>-</sup> is the mean value, Mo the mode value and the Md is median value.
 
 Skewness considers extreme values of the data rather than focusing solely on average. A left skewed portfolio return distribution tells that the rare events with high losses have happende in the life time of the investment whereas small and positive returns are more common.
 
-> ![](name//media/image15.png)
+> ![](images/2020-01-26-portfolio analysis/image15.png)
 
 **15. Kurtosis**
 
 Like skewness, Kurtosis is a statistical measure that is used for describe a distribution. However unlike skewness, Kurtosis measures the frequency of extreme values in either tail. A distribution with large Kurtosis indicates tail data exceeding the tails of normal distribution.
 
-> ![sample kurtosis equation](name//media/image16.png)
+> ![sample kurtosis equation](images/2020-01-26-portfolio analysis/image16.png)
 
 Where n is the sample size, s is the standard deviation and X is the mean value. The formula takes into account the sample size and it subtracts 3 from the kurtosis. With this equation the kurtosis of a normal distribution is 0.
 
@@ -176,7 +176,7 @@ Researches (REFERNCE\!\!\!) indicates that the CDD with an appropriate level (al
 
 The Conditional Drawdown at Risk is calculated as;
 
-![](name//media/image17.png)
+![](images/2020-01-26-portfolio analysis/image17.png)
 
 **17. Conditional Drawdown Duration**
 
