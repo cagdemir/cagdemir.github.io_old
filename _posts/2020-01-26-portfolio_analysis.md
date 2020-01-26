@@ -1,4 +1,4 @@
-**Performance Measurement Metrics**
+# Performance Measurement Metrics
 
 Portfolio performance measurement is one of the most significant part of investment performance evaluation and risk management analysis. Screening the performance of the invesments with due diligence requires to a comprehensive approach. Todays financial instruements and investment approaches complicates continuous monitoring of investment performances. Coming up with a single number which indicates the sole performance of an investment is very difficult if not impossible. However, as each metric has its own strengths and weaknesses, screening several of them can help to alleviate this task. Nevertheless, number of metrics available may exceed the number of concerns one have over the investment she has done. Therefore, choosing the right metric to follow may not be easier than screening the performance of an investment.
 
