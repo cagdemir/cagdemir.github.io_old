@@ -12,7 +12,7 @@ Sharpe ratio is proposed by William F. Sharpe as a measurement method of mutual 
 
 Sharpe ratio is calculated by subtraction of R<sub>p</sub> (the annualized multi-period return over period T) and R<sub>f</sub> (the annualized base currency risk free return over period T) divided by σ **(**R<sub>p</sub>) (the annualized volatility of the portfolio return over period T.
 
-![](/images//2020-01-26-portfolio analysis/image2.png)
+![](/images//2020-01-26-portfolio_analysis/image2.png)
 
 ![](images/2020-01-26-portfolio_analysis/image2.png)
 
